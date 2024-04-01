@@ -3,6 +3,7 @@
 🔗 Explore my GitHub repositories and let's build something awesome together!
 
 🔧 **Languages and Tools:**  
+
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
